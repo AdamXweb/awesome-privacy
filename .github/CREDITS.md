@@ -63,8 +63,8 @@
         </a>
     </td>
     <td align="center">
-        <a href="https://github.com/ltGuillaume">
-            <img src="https://avatars.githubusercontent.com/u/4777345?v=4" width="80;" alt="ltGuillaume"/>
+        <a href="https://github.com/ltguillaume">
+            <img src="https://avatars.githubusercontent.com/u/4777345?v=4" width="80;" alt="ltguillaume"/>
             <br />
             <sub><b>Guillaume</b></sub>
         </a>
