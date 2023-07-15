@@ -127,10 +127,10 @@
         </a>
     </td>
     <td align="center">
-        <a href="https://github.com/pnxdxt">
-            <img src="https://avatars.githubusercontent.com/u/5941125?v=4" width="80;" alt="pnxdxt"/>
+        <a href="https://github.com/pnodet">
+            <img src="https://avatars.githubusercontent.com/u/5941125?v=4" width="80;" alt="pnodet"/>
             <br />
-            <sub><b>Pnxdxt</b></sub>
+            <sub><b>Paul Nodet</b></sub>
         </a>
     </td></tr>
 </table>
