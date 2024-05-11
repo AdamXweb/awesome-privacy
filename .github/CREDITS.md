@@ -63,60 +63,10 @@
         </a>
     </td>
     <td align="center">
-        <a href="https://github.com/pnodet">
-            <img src="https://avatars.githubusercontent.com/u/5941125?v=4" width="80;" alt="pnodet"/>
+        <a href="https://github.com/ltguillaume">
+            <img src="https://avatars.githubusercontent.com/u/4777345?v=4" width="80;" alt="ltguillaume"/>
             <br />
-            <sub><b>Paul Nodet</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/kolaente">
-            <img src="https://avatars.githubusercontent.com/u/13721712?v=4" width="80;" alt="kolaente"/>
-            <br />
-            <sub><b>Kolaente</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/colenh">
-            <img src="https://avatars.githubusercontent.com/u/40342475?v=4" width="80;" alt="colenh"/>
-            <br />
-            <sub><b>Cole</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/Wesley-Ryan">
-            <img src="https://avatars.githubusercontent.com/u/69822796?v=4" width="80;" alt="Wesley-Ryan"/>
-            <br />
-            <sub><b>Wesley-Ryan</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/NylaTheWolf">
-            <img src="https://avatars.githubusercontent.com/u/41797151?v=4" width="80;" alt="NylaTheWolf"/>
-            <br />
-            <sub><b>NylaTheWolf</b></sub>
-        </a>
-    </td></tr>
-<tr>
-    <td align="center">
-        <a href="https://github.com/plplmax">
-            <img src="https://avatars.githubusercontent.com/u/50287455?v=4" width="80;" alt="plplmax"/>
-            <br />
-            <sub><b>Maksim Ploski</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/jamescridland">
-            <img src="https://avatars.githubusercontent.com/u/231941?v=4" width="80;" alt="jamescridland"/>
-            <br />
-            <sub><b>James Cridland</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/LuigiImVector">
-            <img src="https://avatars.githubusercontent.com/u/59611597?v=4" width="80;" alt="LuigiImVector"/>
-            <br />
-            <sub><b>ImVector</b></sub>
+            <sub><b>Guillaume</b></sub>
         </a>
     </td>
     <td align="center">
@@ -127,10 +77,60 @@
         </a>
     </td>
     <td align="center">
-        <a href="https://github.com/ltguillaume">
-            <img src="https://avatars.githubusercontent.com/u/4777345?v=4" width="80;" alt="ltguillaume"/>
+        <a href="https://github.com/LuigiImVector">
+            <img src="https://avatars.githubusercontent.com/u/59611597?v=4" width="80;" alt="LuigiImVector"/>
             <br />
-            <sub><b>Guillaume</b></sub>
+            <sub><b>ImVector</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/jamescridland">
+            <img src="https://avatars.githubusercontent.com/u/231941?v=4" width="80;" alt="jamescridland"/>
+            <br />
+            <sub><b>James Cridland</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/plplmax">
+            <img src="https://avatars.githubusercontent.com/u/50287455?v=4" width="80;" alt="plplmax"/>
+            <br />
+            <sub><b>Maksim Ploski</b></sub>
+        </a>
+    </td></tr>
+<tr>
+    <td align="center">
+        <a href="https://github.com/NylaTheWolf">
+            <img src="https://avatars.githubusercontent.com/u/41797151?v=4" width="80;" alt="NylaTheWolf"/>
+            <br />
+            <sub><b>NylaTheWolf</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/Wesley-Ryan">
+            <img src="https://avatars.githubusercontent.com/u/69822796?v=4" width="80;" alt="Wesley-Ryan"/>
+            <br />
+            <sub><b>Wesley-Ryan</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/colenh">
+            <img src="https://avatars.githubusercontent.com/u/40342475?v=4" width="80;" alt="colenh"/>
+            <br />
+            <sub><b>Cole</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/kolaente">
+            <img src="https://avatars.githubusercontent.com/u/13721712?v=4" width="80;" alt="kolaente"/>
+            <br />
+            <sub><b>Kolaente</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/pnodet">
+            <img src="https://avatars.githubusercontent.com/u/5941125?v=4" width="80;" alt="pnodet"/>
+            <br />
+            <sub><b>Paul Nodet</b></sub>
         </a>
     </td></tr>
 </table>
